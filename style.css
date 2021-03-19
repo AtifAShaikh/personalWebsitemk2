@@ -1,0 +1,23 @@
+#mainNav {
+    background-color:  #95adda;
+    padding-top: 0px;
+}
+
+body{
+    background-color: #10375d;
+}
+
+.name{
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.introText{
+    font-size: 20px;
+}
+
+.aboutme{
+    background-color:  #95adda;
+}
