@@ -18,6 +18,39 @@ body{
     font-size: 30px;
 }
 
-.aboutme{
+.jumbotron{
     background-color:  #95adda;
+}
+
+.sectionTitle{
+    border-bottom: 5px solid #10375d;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.card{
+    background-color: #10375d;
+    color: whitesmoke;
+    border-radius: 0px;
+}
+
+.card-img-top{
+    border-radius: 0px;
+}
+
+.contact-item{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px 30px;
+    background-color: #10375d;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-item:hover{
+    text-decoration: none;
+    color: whitesmoke;
+    background: linear-gradient( #10375d,  #225d97);
 }
